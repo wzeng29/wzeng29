@@ -1,23 +1,47 @@
-# 👋 Hi, I’m @wzeng29
+# Weiyi Zeng
 
-### About Me
-- 🎓 I’m a 4th-year Computer Science student @ Western University, incoming Software QA Co-Op @ Ellisdon, graduating in December 2025.
-- 💻 Passionate about software development, database management, and full-stack development.
-- 🌱 Currently learning **microservices architecture**, **MongoDB**, and **cloud deployment**.
-- 💡 Exploring new technologies like **AI-driven systems** and **gamification**.
-- 🧩 I love solving coding challenges and contributing to meaningful projects.
+## About Me
+I am a fourth-year Computer Science student at the University of Western Ontario, graduating in April 2025. With a strong academic background and practical experience, I specialize in building scalable, efficient, and user-friendly software solutions. My work spans full-stack development, database management, and microservices architecture.
 
-### Interests
-- 👀 I’m interested in **cloud computing**, **data analytics**, and **game development**.
-- 💞️ Open to collaborating on **open-source projects**, **microservices-based applications**, and **AI-driven platforms**.
+## Education
+**BSc, Honours Specialization in Computer Science**  
+University of Western Ontario, London, Canada  
+Upper-Year GPA: 3.8 | Graduating April 2025  
 
-### Get in Touch
-- 📫 Email: wzeng29@uwo.ca  
-- 🔗 LinkedIn: [Weiyi Zeng](https://linkedin.com/in/weiyi-zeng)  
-- 🐙 GitHub: [@wzeng29](https://github.com/wzeng29)
+Relevant Coursework: Object-Oriented Design and Analysis, Data Structures & Algorithms, Software Tools and Systems Programming, Databases, Computer Networks, Operating Systems, and Business Writing & Communication.
 
-### Fun Facts
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I love exploring the intersection of technology and music, especially in Hip-Hop history!
+## Technical Skills
+- **Languages:** Java, Python, C, C++, JavaScript, SQL, PHP, HTML, CSS, R, Assembly, LaTeX.  
+- **Frameworks & Tools:** React, Node.js, Spring Boot, Django, Angular, Flask, Docker, Kubernetes, Jenkins.  
+- **Database Technologies:** MySQL, PostgreSQL, MongoDB, NoSQL, Oracle.  
+- **Development Practices:** Agile, Scrum, TDD, CI/CD, DevOps.
 
-Thanks for visiting! Let’s build something amazing together 🚀.
+## Experience
+### IT Desk Help / Software Engineer Intern  
+**Guangzhou Fancy M&E Technology Co. Ltd., Guangzhou, China**  
+*May 2023 – Sep 2023*  
+- Optimized and implemented an external timer solution for air conditioning units, reducing maintenance costs by 23%.
+- Collaborated with a 6-person IT team to ensure on-time project completion.
+- Delivered customer support services, achieving a 10/10 satisfaction score.
+
+## Projects
+- **Westernify** (C++, SQL, Qt Creator)  
+  Developed a versatile music player and library management system with a robust SQL database and an intuitive UI.  
+
+- **Teaching Assistant Management System** (JavaScript, PHP, SQL, HTML, CSS)  
+  Created a web app to manage TA information and assignments with optimized SQL queries and dynamic menus.  
+
+- **Server-Driven Snake Game** (Python, PyGame, Socket Programming)  
+  Built a multiplayer Snake game with secure message transmission using RSA encryption.  
+
+- **Western University Campus Navigation Tool** (Java, Swing)  
+  Designed an indoor navigation app, transforming PDF maps into accessible software.  
+
+- **Mutex Bank Account Synchronization** (C, Linux)  
+  Implemented process synchronization for concurrent bank transactions using mutexes and pthreads.  
+
+## Get in Touch
+- **Email:** wzeng29@uwo.ca  
+- **LinkedIn:** [linkedin.com/in/weiyi-zeng](https://linkedin.com/in/weiyi-zeng)  
+- **GitHub:** [github.com/wzeng29](https://github.com/wzeng29)  
+- **Portfolio:** [sites.google.com/view/weiyizeng](https://sites.google.com/view/weiyizeng)  
